@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">QrScannerApp</string>
+    <string name="scan_qr_code">Scan Qr Code</string>
+    <string name="start_scan">Start Scan</string>
+    <string name="scan_result">Scan Result</string>
+    <string name="scan_barcode_now">Scan Barcode Now</string>
+    <string name="scan_now">Scan Now</string>
+    <string name="scan_qr">Scan Qr</string>
+    <string name="back">Back</string>
+    <string name="payment_review">Payment Review</string>
+    <string name="payment_details">Payment Details</string>
+    <string name="amount">Amount</string>
+    <string name="description">Description</string>
+    <string name="confirm_payment"><![CDATA[Confirm & Pay]]></string>
+    <string name="recipient">Merchant Name</string>
+    <string name="payment_success">Payment Success</string>
+    <string name="payment_success_message">Payment Successful!</string>
+    <string name="go_home">Go Home</string>
+</resources>
